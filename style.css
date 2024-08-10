@@ -4,7 +4,8 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: hsl(0, 0%, 95%);
+    background-color: hsla(260, 100%, 1%, 0.927);
+    
 
 }
 #calculator{
